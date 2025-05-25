@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hDZcSxS1x0U=",
+  "success": true,
+  "projectFilePath": "/Users/diana/Desktop/ClinicSolution/src/Domain/Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/diana/.nuget/packages/microsoft.netcore.app.ref/8.0.13/microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
+    "/Users/diana/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.13/microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
